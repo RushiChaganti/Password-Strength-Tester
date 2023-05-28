@@ -15,3 +15,8 @@ By using conda
 
 conda install --file requirements.txt
 
+However, in order for the machine learning model files to be created, you must execute each cell in the fmp.ipynb file.
+
+You may launch the website at your local host with the command 
+
+streamlit run .\1_🙂Homepage.py
