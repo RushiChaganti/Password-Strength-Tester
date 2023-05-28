@@ -4,7 +4,7 @@ import pickle
 
 def word_divider(words):
     char = []
-    for i ipn words:
+    for i in words:
         char.append(i)
     return char
 
